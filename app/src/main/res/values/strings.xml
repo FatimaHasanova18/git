@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataBaseApp</string>
+    <string name="save">SAVE</string>
+    <string name="show">SHOW</string>
+</resources>
